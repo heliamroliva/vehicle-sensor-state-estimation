@@ -1,0 +1,9 @@
+﻿# SHA-256 of copied original source files (all matched source project on 2026-10-20)
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  src/__init__.py
+dd0cd8511c348f9315514b67d65e3ad32253b6e631bf0cc3f56281994892ddfa  src/vehicle_model.py
+28dae6434afa239948b0548ad1f0f9dfaaac0932a486b70fc94305e53e8a9f7e  src/sensors.py
+20f2a275ca86fa37bd0da2454316eeae26e8d26f2591c5d82ed5846c9d5c472c  src/kalman_filter.py
+051b65fa7be4c8d1393ee9cb48d249eee10df1c476f416a0464cb54d79639b10  src/rls.py
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  simulations/__init__.py
+116396a7395647dec3934320ab58b946569b990bfb31850b37f439aafd21234e  simulations/nominal.py
+baf38ad5839645e6b9592e9f4615f7bcaedf33a5f4a2e246aa0e36bc263938d1  simulations/plot.py
